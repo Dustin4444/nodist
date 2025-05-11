@@ -24,7 +24,7 @@
     "axios": "^0.27.2",
     "bluebird": "^3.7.2",
     "debug": "^4.3.4",
-    "mkdirp": "^1.0.4",
+    "mkdirp": "^3.0.1",
     "ncp": "^2.0.0",
     "progress": "^2.0.3",
     "promisepipe": "^3.0.0",
